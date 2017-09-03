@@ -121,6 +121,8 @@ i:hover {
 #subsection2 {
     background-image: url("../img/featured-blog.jpg");
     background-size: cover;
+    opacity: 0.2;
+    filter: alpha(opacity=50);
     position: absolute;
     left: 50%;
     width: 50%;
